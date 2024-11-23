@@ -1,4 +1,4 @@
-
+initially push the code in to github
 ---------------------------------------------------------------
 git init
 git add README.md
@@ -8,8 +8,9 @@ git remote add origin https://github.com/Ratnadeepdirsipam/practise.git
 git push -u origin main
 
 ---------------------------------------------------
-…or push an existing repository from the command line
+push an existing repository from the command line
 --------------------------------------------------------------
+git add path-to-file
 git remote add origin https://github.com/Ratnadeepdirsipam/practise.git
 git branch -M main
 git push -u origin main
